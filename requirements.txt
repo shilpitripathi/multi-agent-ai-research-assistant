@@ -1,0 +1,72 @@
+# ============================
+# LangChain Core (LCEL)
+# ============================
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# ============================
+# LangGraph (Multi-Agent)
+# ============================
+langgraph>=0.6.0
+langgraph-checkpoint>=2.0.0
+langgraph-prebuilt>=0.6.0
+
+langchain-groq
+
+# ============================
+# Tavily Search Tool
+# ============================
+tavily-python>=0.7.0
+
+# ============================
+# Web Scraping
+# ============================
+beautifulsoup4>=4.13.0
+lxml>=6.0.0
+html5lib>=1.1
+
+# ============================
+# HTTP Requests
+# ============================
+requests>=2.32.0
+httpx>=0.28.0
+aiohttp>=3.12.0
+
+# ============================
+# Environment Variables
+# ============================
+python-dotenv>=1.1.0
+
+# ============================
+# Token Counting
+# ============================
+tiktoken>=0.9.0
+
+# ============================
+# Data Validation
+# ============================
+pydantic>=2.11.0
+
+# ============================
+# Utilities
+# ============================
+typing-extensions>=4.14.0
+tenacity>=9.1.0
+
+# ============================
+# Logging & Rich Output
+# ============================
+rich>=14.0.0
+
+# ============================
+# Optional Parsing Helpers
+# ============================
+fake-useragent>=2.2.0
+
+# ============================
+# Jupyter (Optional)
+# ============================
+ipykernel>=6.30.0
+jupyter>=1.1.0
